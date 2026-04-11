@@ -1,8 +1,19 @@
-# Hi, I'm Vaibhav Kulkarni 👋
+<!-- Animated wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2e,50:1a1a6e,100:0d1b2e&height=200&section=header&text=Vaibhav%20Kulkarni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20AI%20Developer%20%7C%20IoT%20Engineer&descAlignY=58&descSize=18&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+</p>
 
-**Embedded Systems & AI Engineer · ECE Student @ PDA College, Kalaburagi**
+<!-- Profile views counter — auto updates every visit -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VK-learner&style=for-the-badge&color=0d1b2e&label=PROFILE+VIEWS" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/VK-learner?style=for-the-badge&color=1a1a6e&labelColor=0d1b2e&label=FOLLOWERS" alt="Followers" />
+</p>
 
-> Building at the intersection of hardware and intelligence — from crop disease detectors on Raspberry Pi to AI desktop assistants.
+<!-- Animated typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00B4FF&center=true&vCenter=true&width=700&height=60&lines=Building+AI+that+solves+real+problems+%F0%9F%9A%80;YOLOv8+Crop+Disease+Detector+on+Raspberry+Pi+%F0%9F%8C%BE;AI+Desktop+Assistant+with+Gemini+2.5+Flash+%F0%9F%A4%96;IoT+%26+Robotics+Intern+%40+Unlox+%F0%9F%94%A7;ECE+Student+%40+PDA+College%2C+Kalaburagi+%F0%9F%8E%93;Open+to+Software+%26+AI+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -12,7 +23,7 @@
 - 🔧 IoT & Robotics Engineering Intern @ **Unlox** (Feb 2026 – Jun 2026)
 - 🌱 Currently deepening skills in **Deep Learning & Embedded ML**
 - 💡 Passionate about combining hardware with AI to solve real-world problems
-- 📫 Reach me at **vaibhavkulkarni270@gmail.com**
+- 📫 Reach me at **vaibhav.kulkarni.ece@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-kulkarni-b223b7268) · [HackerRank](https://www.hackerrank.com/profile/vaibhavkulkarn22)
 
 ---
@@ -69,6 +80,31 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- Row 1: Streak + Top Languages — both auto-update daily -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VK-learner&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK-learner&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" width="41%" alt="Top Languages" />
+</p>
+
+<!-- Row 2: Overall GitHub stats — auto-updates with every commit/star/PR -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VK-learner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="60%" alt="GitHub Stats" />
+</p>
+
+<!-- Row 3: Activity graph — shows contribution history as animated line chart -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VK-learner&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=1a1a6e" width="95%" alt="Contribution Graph" />
+</p>
+
+<!-- Row 4: Snake animation — auto-updates daily via GitHub Action -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VK-learner/VK-learner/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
+</p>
+
+---
+
 ## 📜 Certifications
 
 - 🐍 **Python** — HackerRank
@@ -80,4 +116,31 @@
 
 ---
 
-*ECE student graduating July 2026 · Open to full-time & internship roles in Embedded Systems, AI/ML, or IoT*
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-kulkarni-b223b7268">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vaibhav.kulkarni.ece@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/vaibhavkulkarn22">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VK-learner">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2e,50:1a1a6e,100:0d1b2e&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=555555&center=true&vCenter=true&width=600&height=30&lines=ECE+student+graduating+July+2026+%C2%B7+Open+to+Software+%26+AI+roles" />
+</p>
