@@ -82,23 +82,31 @@
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Streak + Top Languages — both auto-update daily -->
+<!-- Streak stats — uses streak-stats.demolab.com (always working, stable) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VK-learner&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK-learner&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" width="41%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=VK-learner&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="60%" alt="GitHub Streak" />
 </p>
 
-<!-- Row 2: Overall GitHub stats — auto-updates with every commit/star/PR -->
+<!-- Top languages — uses githubstats.me (reliable alternative) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VK-learner&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="60%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK-learner&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8&cache_seconds=1800" width="45%" alt="Top Languages"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VK-learner&theme=tokyonight" width="45%" alt="Repos per language" />
 </p>
 
-<!-- Row 3: Activity graph — shows contribution history as animated line chart -->
+<!-- Profile summary cards — very reliable, different provider -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VK-learner&theme=tokyonight" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VK-learner&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VK-learner&theme=tokyonight" width="95%" alt="Profile details"/>
+</p>
+
+<!-- Activity graph — vercel hosted, stable -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VK-learner&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=1a1a6e" width="95%" alt="Contribution Graph" />
 </p>
 
-<!-- Row 4: Snake animation — auto-updates daily via GitHub Action -->
+<!-- Snake animation — works after GitHub Action is set up -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VK-learner/VK-learner/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
 </p>
