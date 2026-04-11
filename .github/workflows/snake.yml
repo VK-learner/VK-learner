@@ -1,4 +1,4 @@
-name: Generate Snake & Stats
+name: Generate Snake
 
 on:
   schedule:
@@ -6,19 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: VK-learner
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg@dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
